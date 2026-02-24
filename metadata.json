@@ -1,0 +1,5 @@
+{
+  "name": "Gym Weight Tracker",
+  "description": "A mobile-first web app to track gym workouts, sets, reps, and weights.",
+  "requestFramePermissions": []
+}
